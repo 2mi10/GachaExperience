@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "rarity": "SR",
+            "itemName": "スペシャルレア",
+            "effectType": "Normal",
+            "weight": 70
+        },
+        {
+            "rarity": "SSR",
+            "itemName": "スーパースペシャルレア",
+            "effectType": "Gold",
+            "weight": 25
+        },
+        {
+            "rarity": "UR",
+            "itemName": "ウルトラレア",
+            "effectType": "Rainbow",
+            "weight": 5
+        }
+    ]
+}
